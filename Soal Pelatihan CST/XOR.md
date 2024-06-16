@@ -1,7 +1,7 @@
 ## XOR
 <sup>10 points</sup>
 
-XOR adalah operator bitwise yang mengembalikan 0 jika bitnya sama, dan 1 jika bitnya sama. Dalam buku teks, operator XOR dilambangkan dengan ⊕, tetapi di sebagian besar tantangan dan bahasa pemrograman Anda akan melihat tanda sisipan ^ digunakan sebagai gantinya.
+XOR adalah operator bitwise yang mengembalikan 0 jika bitnya sama, dan 1 jika bitnya beda. Dalam buku teks, operator XOR dilambangkan dengan ⊕, tetapi di sebagian besar tantangan dan bahasa pemrograman Anda akan melihat tanda sisipan ^ digunakan sebagai gantinya.
 
  | A  | B  | Output |
 |------|-----|-----|
